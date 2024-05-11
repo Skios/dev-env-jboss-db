@@ -3,7 +3,7 @@ FROM alpine:3.14
 
 # Add labels for metadata
 LABEL maintainer="MrCid <mattecama95@gmail.com>" \
-      description="WildFly 10.1.0.Final on Alpine Linux"
+      description="WildFly 26.1.3.Final on Alpine Linux"
 
 USER root
 # Arguments
